@@ -314,3 +314,4 @@ database information 就是將 db 的資料全部顯示出來
 ## License
 
 MIT license
+# Deploying-Flask-To-Heroku
